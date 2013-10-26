@@ -1,4 +1,4 @@
 ac-kill-ring
 ============
 
-auto complete source for kill ring
+auto complete source using kill ring
