@@ -2,7 +2,10 @@
 ;;
 ;;; Author: skyer9 <skyer9 at gmail dot com>
 ;;; URL: https://github.com/skyer9/ac-kill-ring
-;;; Version: 0.1
+;; Created: 2013-10-26
+;; Version: 0.1
+;; Keywords: auto-complete, kill-ring
+
 ;;
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
